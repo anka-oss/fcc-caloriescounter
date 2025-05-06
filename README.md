@@ -24,8 +24,9 @@ Clone the repository and open in your browser:
 ```bash
 git clone https://github.com/anka-oss/fcc-caloriescounter.git
 cd fcc-caloriescounter
-then open index.html in your preferred browser
 ```
+then open index.html in your preferred browser
+
 ## Usage
 1. In the **Budget** field, enter your daily calorie limit.
 2. Select a category, add a description and calorie amount, then click **Add Entry**.
